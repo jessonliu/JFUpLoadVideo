@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b5b81fdf-915e-4995-9e04-8b5611840f8d++1590" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b5b81fdf-915e-4995-9e04-8b5611840f8d++1590" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2936C413-D604-4CCD-ACC8-13ED489EF447",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b5b81fdf-915e-4995-9e04-8b5611840f8d++1590" : "%E9%A1%B9%E7%9B%AE\/JOINUSART\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JFUpLoadVideo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JFUpLoadVideo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/223.4.15.39",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b5b81fdf-915e-4995-9e04-8b5611840f8d++1590"
+    }
+  ]
+}
