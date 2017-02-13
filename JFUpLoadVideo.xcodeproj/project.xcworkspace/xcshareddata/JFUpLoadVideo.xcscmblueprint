@@ -1,20 +1,28 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2D47A785401B78A0BCF28FD57EBAD264B880907C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "b5b81fdf-915e-4995-9e04-8b5611840f8d++1590" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2D47A785401B78A0BCF28FD57EBAD264B880907C" : 9223372036854775807,
     "b5b81fdf-915e-4995-9e04-8b5611840f8d++1590" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2936C413-D604-4CCD-ACC8-13ED489EF447",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2D47A785401B78A0BCF28FD57EBAD264B880907C" : "JFUpLoadVideo\/",
     "b5b81fdf-915e-4995-9e04-8b5611840f8d++1590" : "%E9%A1%B9%E7%9B%AE\/JOINUSART\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "JFUpLoadVideo",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JFUpLoadVideo.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jessonliu\/JFUpLoadVideo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2D47A785401B78A0BCF28FD57EBAD264B880907C"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/223.4.15.39",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
